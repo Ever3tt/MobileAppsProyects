@@ -10,6 +10,8 @@ Repositorio con las prácticas de la materia de Aplicaciones Móviles. Acá subi
 - Juan Camilo Angulo Camelo
 - Jhon Sebastian Amado Duarte
 
+🎓 Ingeniería de Software — Promoción 10 | Jornada Nocturna
+
 ---
 
 ## 📂 Proyectos
